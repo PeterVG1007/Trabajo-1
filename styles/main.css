@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+    /* Estilos de pagina 1*/
+    .page1{
+        height: 1390px;
+        width: 970px; 
+        margin:  60px 0 0 80px;
+        background-color: navajowhite;
+        padding: 10px 0 30px 0;
+           
+}
+.page1 article{
+    background-color: blueviolet;
+    margin: 0 30px 20px 40px;
+    height: 600px;
+    
+}
+.page1 article,.page1 div,.page1 aside{
+    width: 900px;
+}
+
+.page1 div{
+    height: 400px;
+    margin:  10px 30px 20px 40px;
+    background-color: blue; 
+}
+
+.page1 aside{
+    height: 300px;
+    margin: 30px 40px 30px 30px;
+    background-color: burlywood;
+    
+}
+    /*Estilos de pagina 2*/
+    .page2{
+        height: 950px;
+        width: 895px;
+        margin: 60px 0 0 80px;
+        background-color: black;
+        padding-top: 10px;
+    }
+    .page2 article{
+        margin: 30px 20px 15px 40px;
+        width: 835px;
+        height: 260px;
+        background-color: royalblue;
+        padding-top: 10px;
+        
+    }
+    .page2ar{
+        margin: 30px 15px 20px 20px;
+        width: 800px;
+        height: 100px;
+        background-color: turquoise;
+    }
+    .page2ab{
+        margin: 20px 15px 10px 20px;
+        width: 800px;
+        height: 100px;
+        background-color: tomato;
+    }
+    .page2 div{
+        margin: 15px 30px 20px 30px;
+        width: 835px;
+        height: 350px;
+        background-color: thistle;
+        padding-top: 10px;
+    }
+    .page2mar{
+        margin: 30px 25px 20px 10px;
+        width: 800px;
+        height: 300px;
+        background-color: teal;
+        padding-top: 10px;
+    }
+    .page2 aside{
+        margin: 20px 15px 25px 25px;
+        width: 835px;
+        height: 250px;
+        background-color: hotpink;       
+    }
+    /* Estilos pagina 3 */
+
+    .page3{
+        height: 980px;
+        width: 830px;
+        margin: 40px 0 0 30px;
+        background-color: khaki;
+        padding-top: 1px;
+    }
+    .page3 article{
+        margin: 10px 40px 30px 40px;
+        width: 750px;
+        height: 300px;
+        background-color: red; 
+        padding: 1px;      
+    }
+    .page3 div{
+        margin: 30px 50px 40px 40px;
+        width: 750px;
+        height: 240px;
+        background-color: mediumturquoise;
+        padding: 1px;
+    }
+    .page3ar{
+        margin: 10px 15px 20px 15px;
+        width: 720px;
+        height: 100px;
+        background-color: mediumorchid;
+        padding: 1px;
+    }
+    .page3ab{
+        margin: 20px 15px 10px 15px;
+        width: 720px;
+        height: 100px;
+        background-color: mediumspringgreen; 
+        padding: 1px;  
+    }
+    .page3 aside{
+        margin: 40px 60px 10px 20px;
+        width: 770px;
+        height: 200px;
+        background-color: magenta;
+        padding: 1px;
+    }
+    .page3arr{
+        margin: 30px 10px 20px 30px;
+        width: 710px;
+        height: 140px;
+        background-color: mediumslateblue;
+        padding: 1px;
+    }
+    .page3arr article{
+        margin: 10px 20px 10px 20px;
+        width: 670px;
+        height: 100px;
+        background-color: firebrick;
+        padding: 1px;
+    }
+    .page333 {
+        margin: 10px 20px 10px 20px;
+        width: 630px;
+        height: 80px;
+        background-color: fuchsia;
+        padding: 1px;
+    }
+    /* Estilos pagina 4 */
+
+    .page4{
+        height: 1200px;
+        width: 1000px;
+        margin: 40px 0 0 40px;
+        background-color: lawngreen;
+        padding-top: 1px;
+    }
+    .page4 article{
+        height: 1160px;
+        width: 960px;
+        margin: 20px 20px 20px 20px;
+        background-color: red;
+        padding-top: 1px;
+    }
+    .page4ar{
+        height: 1100px;
+        width: 900px;
+        margin: 30px 30px 30px 30px;
+        background-color: blue;
+        padding-top: 1px;
+    }
+    .page4ar article{
+        height: 520px;
+        width: 880px;
+        margin: 20px 10px 20px 10px;
+        background-color: darkred;
+        padding-top: 1px;
+    }
+    .page4ar div{
+        height: 520px;
+        width: 880px;
+        margin: 20px 10px 20px 10px;
+        background-color: darkcyan;
+        padding-top: 1px;
+    }
+    .page4arr{
+        height: 500px;
+        width: 840px;
+        margin: 10px 20px 10px 20px;
+        background-color: darkorchid;
+        padding-top: 1px;
+    }
+    .page4abb{
+        height: 500px;
+        width: 840px;
+        margin: 10px 20px 10px 20px;
+        background-color: lightcyan;
+        padding-top: 1px;
+    }
+    .page4arr article{
+        height: 460px;
+        width: 780px;
+        margin: 20px 30px 20px 30px;
+        background-color: royalblue;
+        padding-top: 1px;
+    }
+    .page4abb article{
+        height: 460px;
+        width: 780px;
+        margin: 20px 30px 20px 30px;
+        background-color: violet;
+        padding-top: 1px;
+    }
+    /* Estilo pagina 5*/
+
+    .page5{
+        height: 1480px;
+        width: 900px;
+        margin: 70px 0 0 60px;
+        background-color: cyan;
+        padding-top: 1px;
+    }
+    .page5 article{
+        height: 1200px;
+        width: 800px;
+        margin: 20px 60px 40px 40px;
+        background-color: beige;
+        padding-top: 1px;
+    }
+    .page5 div{
+        height: 200px;
+        width: 700px;
+        margin: 40px 100px 60px 100px;
+        background-color: brown;
+        padding-top: 1px;
+    }
+    .page5ar{
+        height: 300px;
+        width: 760px;
+        margin: 20px 30px 30px 30px;
+        background-color: wheat;
+        padding-top: 1px;
+    }
+    .page5arm{
+        height: 300px;
+        width: 760px;
+        margin: 30px 20px 15px 40px;
+        background-color: purple;
+        padding-top: 1px;
+    }
+    .page5arbm{
+        height: 300px;
+        width: 760px;
+        margin: 15px 40px 15px 20px;
+        background-color: blue;
+        padding-top: 1px;
+    }
+    .page5arb{
+        height: 200px;
+        width: 760px;
+        margin: 15px 45px 15px 20px;
+        background-color: red;
+        padding-top: 1px;
+    }
+    
